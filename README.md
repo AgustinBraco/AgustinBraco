@@ -4,7 +4,7 @@
 
 <div>
 <h3>Sobre mi:</h3>
-<span>Soy desarrollador web <b>Full Stack</b> y trabajo como <b>QA Engineer</b>. <br> Estoy en búsqueda constante de aprender y mejorar mis habilidades. <br> Me mantengo actualizado sobre las últimas tendencias en tecnología y herramientas.</span>
+<span>Soy desarrollador web <b>Full Stack MERN</b> y trabajo como <b>QA Engineer</b>. <br> Estudio <b>Tecnicatura Superior en Desarrollo de Software</b>. <br> Estoy en búsqueda constante de aprender y mejorar mis habilidades. <br> Me mantengo actualizado sobre las últimas tendencias en tecnología y herramientas.</span>
 </div>
 
 <hr>
