@@ -4,13 +4,17 @@
 
 <div>
 <h3>Sobre mi:</h3>
-<span>Soy desarrollador web <b>Full Stack MERN</b> y trabajo como <b>QA Engineer</b>. <br> Estudio <b>Tecnicatura Superior en Desarrollo de Software</b>. <br> Estoy en búsqueda constante de aprender y mejorar mis habilidades. <br> Me mantengo actualizado sobre las últimas tendencias en tecnología y herramientas.</span>
+<span>Soy desarrollador web <b>Full Stack MERN</b> y trabajo como <b>QA Engineer</b>. <br>
+Estudio <b>Tecnicatura Superior en Desarrollo de Software</b>. <br>
+Estoy en búsqueda constante de aprender y mejorar mis habilidades. <br>
+Me mantengo actualizado sobre las últimas tendencias en tecnología y herramientas.</span>
 </div>
 
 <hr>
 
 <div>
-<h3>Tecnologías:</h3><img alt="Javascript" src="https://img.shields.io/badge/Javascript-7D9D9C?style=for-the-badge&logo=javascript&logoColor=white">
+<h3>Tecnologías:</h3>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-7D9D9C?style=for-the-badge&logo=javascript&logoColor=white">
 <img alt="Node" src="https://img.shields.io/badge/Node-7D9D9C?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-7D9D9C?style=for-the-badge&logo=react&logoColor=white">
 <img alt="Express" src="https://img.shields.io/badge/Express-7D9D9C?style=for-the-badge&logo=express&logoColor=white">
