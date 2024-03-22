@@ -31,15 +31,15 @@
 <h3>Contacto:</h3>
 <span>Podés contactarme para cotizaciones, colaboraciones o mentoría.</span>
 <br>
-<a target="blank" href="mailto:bracoagustin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-7D9D9C?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a target="blank" href="https://www.linkedin.com/in/agust%C3%ADn-braco/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-7D9D9C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="blank" href="https://www.instagram.com/bracoagustin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-7D9D9C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:bracoagustin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-7D9D9C?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/agust%C3%ADn-braco/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-7D9D9C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/bracoagustin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-7D9D9C?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <hr>
 
 <div>
-<a target="_blank" href="https://agustinbraco.vercel.app/">
+<a href="https://agustinbraco.vercel.app/">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-7D9D9C?style=for-the-badge&logo=southwestairlines&logoColor=white">
 </a>
 <p><b>¡Gracias por tu visita!</b></p>  
