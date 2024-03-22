@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D9D9C&height=120&section=header"/>
 
-# Agustín Braco <br> Full Stack & Mobile App developer
+# Full Stack & Mobile App developer
 
 <div>
 <h3>Sobre mi:</h3>
