@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D9D9C&height=120&section=header"/>
 
-# Agustín Braco
+# Aguscript
 
 <div>
 Desarrollador Full Stack MERN.<br>
@@ -52,14 +52,6 @@ Creo productos sólidos y escalables, enfocados en calidad, accesibilidad y usab
 <img alt="Chai" src="https://img.shields.io/badge/Chai-7D9D9C?style=for-the-badge&logo=chai&logoColor=white">
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-7D9D9C?style=for-the-badge&logo=mocha&logoColor=white">
 
-</div>
-
-<hr>
-
-<div>
-<h3>Contacto</h3>
-<a href="mailto:bracoagustin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-7D9D9C?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/agust%C3%ADn-braco/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-7D9D9C?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <hr>
