@@ -3,12 +3,13 @@
 # Agustin Braco
 
 <div>
-Desarrollador Full Stack MERN.<br>
-Desarrollador Mobile con React Native.<br>
-QA Engineer en Integrations Reliability.<br>
-En curso: Tecnicatura Superior en Desarrollo de Software.<br>
+Desarrollador Full Stack <br>
+Desarrollador Mobile Apps (React Native) <br>
+Integrations Reliability QA Engineer <br>
 <br>
-Creo productos sólidos y escalables, enfocados en calidad, accesibilidad y usabilidad.
+En curso: Tecnicatura Superior en Desarrollo de Software<br>
+<br>
+Creo productos sólidos y escalables, enfocados en calidad, accesibilidad y usabilidad
 </div>
 
 <hr>
