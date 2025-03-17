@@ -50,8 +50,13 @@ Creo productos sólidos y escalables, enfocados en calidad, accesibilidad y usab
 
 <h4>Testing</h4>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-7D9D9C?style=for-the-badge&logo=postman&logoColor=white">
+<img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-7D9D9C?style=for-the-badge&logo=hoppscotch&logoColor=white">
 <img alt="Chai" src="https://img.shields.io/badge/Chai-7D9D9C?style=for-the-badge&logo=chai&logoColor=white">
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-7D9D9C?style=for-the-badge&logo=mocha&logoColor=white">
+
+<h4>Diseño</h4>
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-7D9D9C?style=for-the-badge&logo=phpstorm&logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-7D9D9C?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
 
